@@ -8,6 +8,10 @@
 		<version>2.6.3-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
+	<!--  
+here we adding changes from direct github to understand about conflict.
+-->
 	<groupId>com.practice.spring</groupId>
 	<artifactId>spring-practice-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
